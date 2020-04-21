@@ -1,5 +1,4 @@
-# SIMD
-Satellite Imagery Multi-vehicles Dataset (SIMD)
+# Satellite Imagery Multi-vehicles Dataset (SIMD)
 
 This is a the official repository of Satellite Imagery Multi-vehicle Dataset (SIMD)
 
