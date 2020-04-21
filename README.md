@@ -16,8 +16,8 @@ Cite this work as follows:
 Optical Imagery}, year={2020}, volume={x}, number={x}, pages={xxxx-yyyy},} 
 
 ---------------------------------------------------------------
-Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz  
-School of Eletrical Engineering & Computer Science
-National University of Sciences & Technology (Nust)
-Sector H-12, Islamabad, Pakistan
+Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz,  
+School of Eletrical Engineering & Computer Science (SEECS),
+National University of Sciences & Technology (Nust), 
+Sector H-12, Islamabad, Pakistan, 
 February, 2020
