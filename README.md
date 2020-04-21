@@ -18,5 +18,6 @@ Optical Imagery}, year={2020}, volume={x}, number={x}, pages={xxxx-yyyy},}
 ---------------------------------------------------------------
 Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz  
 School of Eletrical Engineering & Computer Science
-Nust, Islamabad
-August, 2019
+National University of Sciences & Technology (Nust)
+Sector H-12, Islamabad, Pakistan
+February, 2020
