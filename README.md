@@ -1,7 +1,8 @@
-# SIMD
-Satellite Imagery Multi-vehicles Dataset (SIMD)
+# Satellite Imagery Multi-vehicles Dataset (SIMD)
 
 This is a the official repository of Satellite Imagery Multi-vehicle Dataset (SIMD)
+
+Paper Link: https://ieeexplore.ieee.org/document/9109702
 
 Download sample sheet: https://github.com/ihians/simd/blob/master/simd-sample-images.pdf
 
@@ -12,8 +13,19 @@ Download complete dataset: Will be available after paper publishing.
 ---------------------------------------------------------------
 Cite this work as follows:
 
-@ARTICLE{xxxxx, author={M. {Haroon} and M. {Shahzad} and M. {Moazam Faraz}, journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, title={Multi-sized Object Detection Using Spaceborne
-Optical Imagery}, year={2020}, volume={x}, number={x}, pages={xxxx-yyyy},} 
+Citation
+-----------
+@ARTICLE{9109702,
+  author={M. {Haroon} and M. {Shahzad} and M. M. {Fraz}}, 
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Multi-sized Object Detection Using Spaceborne Optical Imagery}, 
+  year={2020}, 
+  volume={}, 
+  number={}, 
+  pages={1-1},
+ }
+ 
+M. Haroon, M. Shahzad and M. M. Fraz, "Multi-sized Object Detection Using Spaceborne Optical Imagery," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2020.3000317.
 
 ---------------------------------------------------------------
 Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz,  
