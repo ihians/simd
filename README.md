@@ -1,6 +1,8 @@
 # Satellite Imagery Multi-vehicles Dataset (SIMD)
 
-This is a the official repository of Satellite Imagery Multi-vehicle Dataset (SIMD)
+This is a the official repository of Satellite Imagery Multi-vehicle Dataset (SIMD).
+
+This repo is under update process. Please feel free to contact us in case of any problem. 
 
 Paper Link: https://ieeexplore.ieee.org/document/9109702
 
