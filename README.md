@@ -11,9 +11,21 @@ Download complete dataset: Will be available after paper publishing.
 ---------------------------------------------------------------
 Cite this work as follows:
 
-@ARTICLE{xxxxx, author={M. {Haroon} and M. {Shahzad} and M. {Moazam Faraz}, journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, title={Multi-sized Object Detection Using Spaceborne
-Optical Imagery}, year={2020}, volume={x}, number={x}, pages={xxxx-yyyy},} 
+Plain Text
+-----------
+M. Haroon, M. Shahzad and M. M. Fraz, "Multi-sized Object Detection Using Spaceborne Optical Imagery," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2020.3000317.
 
+BibTex
+---------
+@ARTICLE{9109702,
+  author={M. {Haroon} and M. {Shahzad} and M. M. {Fraz}},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Multi-sized Object Detection Using Spaceborne Optical Imagery}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+ }
 ---------------------------------------------------------------
 Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz,  
 School of Eletrical Engineering & Computer Science (SEECS),
