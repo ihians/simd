@@ -36,8 +36,12 @@ Citation
 M. Haroon, M. Shahzad and M. M. Fraz, "Multi-sized Object Detection Using Spaceborne Optical Imagery," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2020.3000317.
 
 ---------------------------------------------------------------
-Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz,  
+Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz, 
+
 School of Eletrical Engineering & Computer Science (SEECS),
+
 National University of Sciences & Technology (Nust), 
+
 Sector H-12, Islamabad, Pakistan, 
+
 February, 2020
