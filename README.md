@@ -4,13 +4,13 @@ This is a the official repository of Satellite Imagery Multi-vehicle Dataset (SI
 
 This repo is under update process. Please feel free to contact us in case of any problem. 
 
-Paper Link: https://ieeexplore.ieee.org/document/9109702
+### Paper Link: https://ieeexplore.ieee.org/document/9109702
 
 Download sample sheet: https://github.com/ihians/simd/blob/master/simd-sample-images.pdf
 
 Download sample dataset: https://drive.google.com/open?id=1avnqDBUWf7Gx6-8o-elOkQ_NP6H5Oof9
 
-Download complete dataset here...
+### Download Complete Dataset
 
 Training:    https://drive.google.com/file/d/1IUB__JPaBj3XEtfeIVr5Tlg_SD5rwa05/view?usp=sharing
 
