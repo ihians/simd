@@ -28,12 +28,12 @@ Citation
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={Multi-sized Object Detection Using Spaceborne Optical Imagery}, 
   year={2020}, 
-  volume={}, 
+  volume={13}, 
   number={}, 
-  pages={1-1},
+  pages={3032-3046},
  }
  
-M. Haroon, M. Shahzad and M. M. Fraz, "Multi-sized Object Detection Using Spaceborne Optical Imagery," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2020.3000317.
+M. Haroon, M. Shahzad and M. M. Fraz, "Multisized Object Detection Using Spaceborne Optical Imagery," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 3032-3046, 2020, doi: 10.1109/JSTARS.2020.3000317.
 
 ---------------------------------------------------------------
 ### Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz, 
