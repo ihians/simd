@@ -20,7 +20,7 @@ Validation:  https://drive.google.com/file/d/1fy8dI-2dKPJprlZlZIB_XM0gh9LqL_Cn/v
 Annotations: https://drive.google.com/file/d/1QxipseJnt1y5enieUUh16k22Vuhr7E6S/view?usp=sharing    
 
 ---------------------------------------------------------------
-@ARTICLE{9109702,
+ARTICLE{9109702,
   author={M. {Haroon} and M. {Shahzad} and M. M. {Fraz}}, 
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={Multi-sized Object Detection Using Spaceborne Optical Imagery}, 
