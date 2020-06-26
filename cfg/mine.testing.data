@@ -1,0 +1,6 @@
+classes= 15
+train  = ./simd/training.txt
+valid  = /simd/testing7.txt
+names = /simd/mine.names
+backup = ../mine-testing/
+
