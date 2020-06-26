@@ -20,6 +20,15 @@ Validation:  https://drive.google.com/file/d/1fy8dI-2dKPJprlZlZIB_XM0gh9LqL_Cn/v
 Annotations: https://drive.google.com/file/d/1QxipseJnt1y5enieUUh16k22Vuhr7E6S/view?usp=sharing    
 
 ---------------------------------------------------------------
+#### Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz, 
+School of Eletrical Engineering & Computer Science (SEECS),
+National University of Sciences & Technology (Nust), 
+Sector H-12, Islamabad, Pakistan, 
+February, 2020
+
+Contact: mharoon.mscs16seecs@seecs.edu.pk
+
+---------------------------------------------------------------
 ARTICLE{9109702,
   author={M. {Haroon} and M. {Shahzad} and M. M. {Fraz}}, 
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
@@ -29,11 +38,3 @@ ARTICLE{9109702,
   number={}, 
   pages={3032-3046},
  }
----------------------------------------------------------------
-#### Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz, 
-School of Eletrical Engineering & Computer Science (SEECS),
-National University of Sciences & Technology (Nust), 
-Sector H-12, Islamabad, Pakistan, 
-February, 2020
-
-Contact: mharoon.mscs16seecs@seecs.edu.pk
