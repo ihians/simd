@@ -20,8 +20,6 @@ Validation:  https://drive.google.com/file/d/1fy8dI-2dKPJprlZlZIB_XM0gh9LqL_Cn/v
 Annotations: https://drive.google.com/file/d/1QxipseJnt1y5enieUUh16k22Vuhr7E6S/view?usp=sharing    
 
 ---------------------------------------------------------------
-Citation
------------
 @ARTICLE{9109702,
   author={M. {Haroon} and M. {Shahzad} and M. M. {Fraz}}, 
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
@@ -31,8 +29,6 @@ Citation
   number={}, 
   pages={3032-3046},
  }
-----------------------------------------------------------------
-M. Haroon, M. Shahzad and M. M. Fraz, "Multisized Object Detection Using Spaceborne Optical Imagery," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 3032-3046, 2020, doi: 10.1109/JSTARS.2020.3000317.
 ---------------------------------------------------------------
 #### Muhammad Haroon, Dr. Muhammad Shahzad, Dr. Muhammad Moazzam Faraz, 
 School of Eletrical Engineering & Computer Science (SEECS),
